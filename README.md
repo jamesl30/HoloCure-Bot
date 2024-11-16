@@ -1,2 +1,2 @@
-# HoloCure-Bot
-Program for optimizing your plays for HoloCure
+# HoloCure-Casino
+Program for optimizing your plays for the HoloCure Casino
